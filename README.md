@@ -3,7 +3,7 @@ In this project, Itried to develop an end-to-end data science application using 
 dataset given above. The aim of the project is to estimate the approximate cost of a person's
 health insurance based on the given variables. While creating the project, I tried to follow the
 instructions below and make sure that the project is unique.
-Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
+* Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 1. Importing Required Libraries
   * Import the required libraries for the project.
