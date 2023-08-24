@@ -23,7 +23,7 @@ instructions below and make sure that the project is unique.
   * Try to use data visualization techniques as much as possible while examining the data.
 3. Data Preprocessing
   * In this section, prepare the data you have, for training the model.
-  * Use Label Encoding and One-Hot Encoding techniques to deal with categorical variables.
+  * Use Dummy Encoding techniques to deal with categorical variables.
   * Split your dataset into X_train,X_test, y_train, y_test.
   * Scale the dataset by normalizing it(Min-Max Scaling or Standard Scaling).
 4. Model Selection
